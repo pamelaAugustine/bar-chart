@@ -1,0 +1,23 @@
+*{
+    font-family: Candara;
+}
+
+.bar:hover {
+    fill:yellow;
+  }
+
+#x-axis, #y-axis{
+    font-size: 1.1em;
+}
+
+#title{
+    font-size:  2em;
+}
+
+.axis-label{
+    font-size: 1.4em;
+}
+
+#yAxisLabel{
+    font-size: 1.2em;
+}
